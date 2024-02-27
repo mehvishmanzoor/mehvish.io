@@ -2,9 +2,9 @@ const imageOverlay = document.getElementById('image-overlay');
 
 // Replace these URLs with the actual URLs of your art pieces
 const artPieces = [
-    'url_to_art_piece_1.jpg',
-    'url_to_art_piece_2.jpg',
-    'url_to_art_piece_3.jpg',
+    'https://mehvishmanzoor.github.io/mehvish.io/.jpg',
+    'https://mehvishmanzoor.github.io/mehvish.io/.jpg',
+    'https://mehvishmanzoor.github.io/mehvish.io/.jpg',
     // Add more art piece URLs as needed
 ];
 
